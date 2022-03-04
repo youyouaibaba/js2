@@ -1,6 +1,22 @@
 ﻿Windows PowerShell
 版权所有 (C) Microsoft Corporation。保留所有权利。
 
+420115198608127937
+420115198608127937
+420115198608127937420115198608127937
+420115198608127937
+420115198608127937
+420115198608127937420115198608127937
+
+420115198608127937
+420115198608127937
+420115198608127937420115198608127937
+
+420115198608127937
+420115198608127937
+420115198608127937420115198608127937
+
+
 尝试新的跨平台 Powegp HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* |Select DisplayName, DisplayVersion, Publisher, InstallDate
 >> gp HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* |Select DisplayName, DisplayVersion, Publisher, InstallDate
 >> gp HKCU:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* |Select DisplayName, DisplayVersion, Publisher, InstallDate
